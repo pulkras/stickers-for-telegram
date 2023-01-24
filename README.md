@@ -1,2 +1,3 @@
-# work-with-telegram
-these are projects to work with telegram
+# stickers-for-telegram
+
+these program optimizes creating stickers for telegram
